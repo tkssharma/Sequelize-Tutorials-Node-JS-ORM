@@ -16,6 +16,8 @@ $ npm install --save mariadb
 $ npm install --save sqlite3
 $ npm install --save tedious # Microsoft SQL Server
 ```
+![Sequelize](02.jpg "title")
+![Sequelize with Node JS](01.jpg "title")
 
 ## Documentation
 - [v5 Documentation](http://docs.sequelizejs.com)
