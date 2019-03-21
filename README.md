@@ -1,9 +1,11 @@
 # Sequelize Tutorials
 
 Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more.
+https://www.youtube.com/watch?v=MnljgIYwiaI&list=PLIGDNOJWiL1-OJp8ZWBO2838ENa0tsy6H
 ## refernece links
 - [Installation](http://docs.sequelizejs.com/)
 - [Documentation](http://docs.sequelizejs.com/)
+- [Youtube](https://www.youtube.com/watch?v=MnljgIYwiaI&list=PLIGDNOJWiL1-OJp8ZWBO2838ENa0tsy6H)
 
 ## Installation
 ```bash
